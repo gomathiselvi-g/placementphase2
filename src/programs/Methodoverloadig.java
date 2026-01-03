@@ -59,7 +59,9 @@ public class Methodoverloadig {
 
 		public static void main(String[] args) {
 
-			methodoverloading ob1=new Test();
+			
+			
+			Methodoverloadig ob1=new Methodoverloadig();
 
 			ob1.setter(10,22.25f);
 
@@ -75,4 +77,4 @@ public class Methodoverloadig {
 
 
 
-}
+
